@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/RutujaSawant09&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/RutujaSawant09//github.com/RutujaSawant09&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" height="170px"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaSawant09&layout=compact&theme=github_dark" height="170px"/>
 </p>
