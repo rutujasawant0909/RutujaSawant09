@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Passionate **Python** & **UI/UX Developer**  
-- 🎓 BTECH 2025 | Shivaji University, Pune  
+- 🎓 BTECH 2025 | Shivaji University, Kolhapur  
 - 🚀 Always learning new technologies and building real-world projects  
 - 🧠 Skilled in **Python, React, HTML5, CSS3, JavaScript,Aws cloud**
 
