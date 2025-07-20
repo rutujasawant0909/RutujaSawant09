@@ -1,7 +1,6 @@
-
 <!-- Profile View Counter & Greeting -->
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"> Hi, I'm Rutuja Sawant— a passionate UI/UX Developer
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"> Hi, I'm Rutuja Sawant — Aspiring Cloud Engineer
 </h1>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=RutujaSawant09&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
@@ -9,12 +8,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## ☁ About Me
 
-- 💻 Passionate **Python** & **UI/UX Developer**  
-- 🎓 BTECH 2025 | Shivaji University, Kolhapur  
-- 🚀 Always learning new technologies and building real-world projects  
-- 🧠 Skilled in **Python, React, HTML5, CSS3, JavaScript,Aws cloud**
+- 🚀 Cloud Enthusiast | B.Tech 2025 | Shivaji University, Kolhapur  
+- 💡 Hands-on with *AWS Services, **LocalStack, **Terraform, and **CI/CD pipelines*  
+- 🔧 Building and deploying cloud infrastructure using *DevOps practices*  
+- 🧠 Always learning and exploring new cloud tools and best practices  
+- 📁 Check out my cloud projects below ⬇  
 
 ---
 
@@ -23,32 +23,19 @@
 <p align="left">
   <a href="mailto:rutujasawant0909@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rutuja-sawant-972979257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/RutujaSawant405/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## ⚙ Cloud & DevOps Stack
 
-### 🔷 Languages
 <p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🔶 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
-</p>
-   
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalStack-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -60,3 +47,5 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaSawant09&layout=compact&theme=github_dark" height="170px"/>
 </p>
+
+---
